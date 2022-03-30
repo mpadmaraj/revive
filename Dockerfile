@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER padmaraj <padmaraj.madatha@happiestminds.com>
+MAINTAINER padmaraj <padmaraj.m@gmail.com>
 
 WORKDIR /var/www/html
 
